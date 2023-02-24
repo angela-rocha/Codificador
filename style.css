@@ -61,7 +61,7 @@ body {
   margin-bottom: 5px;
 }
 .logo {
-  background-image:Codificador/letraArosa.png;
+  background-image:./letraArosa.png;
   background-repeat: no-repeat;
   background-size: contain;
   padding: 40px;

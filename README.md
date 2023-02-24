@@ -1,70 +1,92 @@
-CODIFICADOR E DECODIFICADOR DE TEXTO
+![CapturarCodificador](https://user-images.githubusercontent.com/124155078/221072922-aef9645a-9661-4a78-a8dc-0dc37894660f.PNG)
 
-Sobre o projeto:
-Primeiro desafio de Lógica de Programação responsiva, desenvolvido durante
-o curso #onenexteducation.
 
-O desafio consta em desenvolver um decodificador de texto capaz de codificar
-e decodificar palavras de acordo com as regras a seguir:
 
-A letra &quot;e&quot; é convertida para &quot;enter&quot;
+ # CODIFICADOR E DECODIFICADOR DE TEXTO
 
-A letra &quot;i&quot; é convertida para &quot;imes&quot;
 
-A letra &quot;a&quot; é convertida para &quot;ai&quot;
+ 
+ 
 
-A letra &quot;o&quot; é convertida para &quot;ober&quot;
+# Sobre o projeto
 
-A letra &quot;u&quot; é convertida para &quot;ufat&quot;
 
-Requisitos:
+ 
+## 📚 Funcionalidades
 
- Deve funcionar apenas com letras minúsculas
+- Utilizada para codificar e decodificar textos
+- Opção de botão para copiar o texto codificado
+- interface é simples, direta e de fácil navegabilidade.
+- Responsivo para smartphone
+- versão sem publicidades.
 
- Não deve ser usado letras com acentos nem caracteres especiais
+## Regras a seguir:
 
- Deve ser possível converter uma palavra para a versão criptografada e
-também retornar uma palavra criptografada para a versão original.
+O codificador de texto é capaz de codificar e decodificar palavras de acordo com as regras a seguir:
 
-Por exemplo:
+A letra "e" é convertida para "enter"
 
-&quot;gato&quot; =&gt; &quot;gaitober&quot;
+A letra "i" é convertida para "imes"
 
-gaitober&quot; =&gt; &quot;gato&quot;
+A letra "a" é convertida para "ai"
 
- A página deve ter campos para inserir o texto a ser criptografado ou
-descrito, e a pessoa usuária deve poder escolher entre as duas opções
+A letra "o" é convertida para "ober"
 
- O resultado deve ser exibido na tela.
+A letra "u" é convertida para "ufat"
 
-Extras:
+## Requisitos:
 
- Um botão que copia o texto criptografado/descriptografado para a área
-de download - ou seja, que tenha a mesma funcionalidade do ctrl+Cou
-da opção &quot;copiar&quot; do menu dos aplicativos.
+- Deve funcionar apenas com letras minúsculas
 
-Cursos e Formações:
+- Não deve ser usado letras com acentos nem caracteres especiais
 
-Cursos Alura:
+- Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original, por exemplo: "gato" => "gaitober" // "gaitober" => "gato"
 
- Lógica de programação I e II;
+- A página deve ter campos para inserir o texto a ser criptografado ou descrito, e a pessoa usuária deve poder escolher entre as duas opções
 
- HTML5 e CSS3 completo;
+- O resultado deve ser exibido na tela.
 
- JavaScript: programando na linguagem da web;
+# [![License: MIT](https://img.shields.io/badge/License-MIT-greem.svg)](https://opensource.org/licenses/MIT)
 
- Git e Github: controle e compartilhe seu código;
 
- Alura+: Como um(a) desenvolvedor(a) front-end utiliza o Figma;
+## Status do Projeto:
+ ![](https://camo.githubusercontent.com/459f141bd5e24c179a0e2dd49691e290ed5c5d4b4cb97767daee7cfaf6e31121/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d434f4e434c5549444f26636f6c6f723d475245454e267374796c653d666f722d7468652d6261646765)
 
-Ferramentas:
+### 🚀 acesse o Codificador:
 
- Figma;
+[https://angela-silva.github.io/Codificador/]()
 
- Github;
+## Para Instalação:
 
- Trelo;
+* Antes de começar, você vai precisar:
 
- Vscode;
+* Clonar o repositório.
+* Ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com)
+* Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
- Cromada;
+
+## 🔧 Tecnologia utilizada
+* ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+* ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+* ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+ 
+
+## Autora
+
+![imagem Angela Silva](https://media.licdn.com/dms/image/D4D03AQGzK8Y4s4kL2w/profile-displayphoto-shrink_800_800/0/1673020966867?e=1682553600&v=beta&t=TxhI4xPC6atXg6w774KIrhlY2OXhrzfCt3zemj1qGpU)
+##### Feito com ❤ por Angela Silva ❤
+
+## Feedback
+
+### Se você tiver algum feedback, por gentileza, entre em contato: 
+
+### angela.frontend@gmail.com
+
+
+
+
+

@@ -54,7 +54,7 @@ A letra "u" é convertida para "ufat"
 
 ### 🚀 acesse o Codificador:
 
-[https://angela-silva.github.io/Codificador/]()
+(https://angela-silva.github.io/Codificador/)
 
 ## Para Instalação:
 

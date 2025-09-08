@@ -54,16 +54,7 @@ A letra "u" é convertida para "ufat"
 
 ### 🚀 acesse o Codificador:
 
-(https://angela-silva.github.io/Codificador/)
-
-## Para Instalação:
-
-* Antes de começar, você vai precisar:
-
-* Clonar o repositório.
-* Ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com)
-* Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+[Ver Projeto](https://angela-silva.github.io/Codificador/)
 
 
 ## 🔧 Tecnologia utilizada
@@ -84,7 +75,7 @@ A letra "u" é convertida para "ufat"
 
 ### Se você tiver algum feedback, por gentileza, entre em contato: 
 
-### angela.frontend@gmail.com
+### angela.devfrontend@gmail.com
 
 
 

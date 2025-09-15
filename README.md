@@ -1,16 +1,6 @@
 ![CapturarCodificador](https://user-images.githubusercontent.com/124155078/221072922-aef9645a-9661-4a78-a8dc-0dc37894660f.PNG)
 
-
-
- ## CODIFICADOR E DECODIFICADOR DE TEXTO
-
-
- 
- 
-
-## Sobre o projeto
-
-
+## CODIFICADOR E DECODIFICADOR DE TEXTO
  
 ## 📚 Funcionalidades
 

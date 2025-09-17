@@ -54,7 +54,7 @@ A letra "u" é convertida para "ufat"
 
 ## Autora
 
-##### Feito com ❤ por Angela Silva ❤
+##### Feito com ❤ por Angela Silva 
 
 ## Feedback
 

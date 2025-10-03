@@ -1,4 +1,4 @@
-## Primeiro projeto desenvolvido na Alura 
+## Primeiro projeto desenvolvido no curso da escola de tecnologia Alura 
 
 
 ![CapturarCodificador](https://user-images.githubusercontent.com/124155078/221072922-aef9645a-9661-4a78-a8dc-0dc37894660f.PNG)
